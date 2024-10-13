@@ -1,0 +1,18 @@
+body{
+color: #936b20;
+background:pink;
+margin:2px ;
+}
+
+header {
+border-bottom: solid 3px rgb(191,154,101);
+padding: 10px;
+font-size:25px;
+}
+
+
+section{
+    background:#dfc8d3;
+padding-bottom: 40px;
+padding-top: 30px; 
+}
